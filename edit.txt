@@ -1,2 +1,2 @@
-abc
+const a=abc
 xyz
