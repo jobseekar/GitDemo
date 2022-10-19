@@ -1,6 +1,0 @@
-this is to show and resolve the conflict
-
-main ()
-{ 
-Print "Hello World"
-}
