@@ -1,1 +1,2 @@
-hello hi there
+const a=abc
+xyz
